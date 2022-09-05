@@ -38,20 +38,20 @@
       "name": "Home",
       "short_name": "Home",
       "description": "Get Started",
-      "url": "https://surechakra.vercel.app/chakra-app/",
+      "url": "https://surechakra.vercel.app/surechakra/",
       "icons": [{ "src": "logo192_.png", "sizes": "192x192" }]
     },
     {
       "name": "Meditate",
       "short_name": "Meditate",
       "description": "Choose your Meditation Mantra",
-      "url": "https://surechakra.vercel.app/chakra-app/chakra",
+      "url": "https://surechakra.vercel.app/surechakra/chakra/",
       "icons": [{ "src": "logo192_.png", "sizes": "192x192" }]
     }
   ],
   "theme_color": "#fbb03b",
   "background_color": "#fbb03b",
   "display": "standalone",
-  "scope": "https://surechakra.vercel.app/chakra-app/",
-  "start_url": "https://surechakra.vercel.app/chakra-app/"
+  "scope": "https://surechakra.vercel.app/surechakra/",
+  "start_url": "https://surechakra.vercel.app/surechakra/"
 }
