@@ -13,7 +13,7 @@ import Error from "./pages/Error";
 import ChakraData from "./static/chakraData";
 
 
-const localStorageKey = 'SURECHAKRA'
+const localStorageKey = 'SURE_CHAKRA'
 
 
 function App() {

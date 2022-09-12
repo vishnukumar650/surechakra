@@ -45,7 +45,7 @@
       "name": "Meditate",
       "short_name": "Meditate",
       "description": "Choose your Meditation Mantra",
-      "url": "https://surechakra.vercel.app/surechakra/chakra/",
+      "url": "https://surechakra.vercel.app/surechakra/chakra",
       "icons": [{ "src": "logo192_.png", "sizes": "192x192" }]
     }
   ],

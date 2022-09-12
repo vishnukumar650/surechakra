@@ -25,7 +25,7 @@ export default function License() {
       question: "LICENSE",
       answer:
         "MIT License",
-      link: "https://github.com/vishnukumar650/surechakra/blob/master/LICENSE"
+      link: "https://surechakra.vercel.app/surechakra/blob/master/LICENSE"
     },
   ];
 
