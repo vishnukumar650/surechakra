@@ -1,4 +1,4 @@
-# Chakra App
+# SureChakra
 
 - [![](https://img.shields.io/badge/Chakra_App-111827?style=for-the-badge&logo=progate&logoColor=white)]()
 
