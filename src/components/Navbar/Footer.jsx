@@ -39,7 +39,7 @@ function Footer() {
         <hr className="my-3 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-4" />
 
         <div className="sm:flex sm:items-center sm:justify-between">
-            <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 
+            <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2026 
                 <Link to="/" className="hover:underline">{` Chakra App`}</Link>. 
                 All Rights Reserved.
             </span>

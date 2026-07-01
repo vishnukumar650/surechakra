@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Data from '../static/chakraData'
-import FadeIn from 'react-fade-in';
+import FadeIn from './FadeIn'
 
 
 export default function ChakraData() {

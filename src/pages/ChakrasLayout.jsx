@@ -1,6 +1,6 @@
 import React from 'react'
 import PlayAudio from '../components/PlayAudio'
-import FadeIn from 'react-fade-in'
+import FadeIn from '../components/FadeIn'
 import MainLayout from '../components/Layout/MainLayout'
 
 
